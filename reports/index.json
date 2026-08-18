@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260817-173645-sz4h",
+      "title": "Prosecute",
+      "commanders": [
+        "Prosecute"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-18T00:36:45.000Z",
+      "dateEnd": "2026-08-18T01:17:01.000Z",
+      "dateLabel": "8/17/2026, 5:36:45 PM - 8/17/2026, 6:17:01 PM",
+      "url": "https://tiltedhealer.github.io/SELogs/?report=20260817-173645-sz4h",
+      "summary": {
+        "borderlandsPct": 0.9230769230769231,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 30,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 18,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 4,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20260815-173205-m2hf",
       "title": "Prosecute",
       "commanders": [
