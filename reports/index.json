@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260902-085333-kla2",
+      "title": "Fiendishwumd",
+      "commanders": [
+        "Fiendishwumd"
+      ],
+      "guild": {
+        "id": "338573C5-46B5-EE11-BA1F-124BD09C5957",
+        "name": "Les Tempêtes Vaillantes",
+        "tag": "Tv"
+      },
+      "dateStart": "2026-09-02T15:53:33.000Z",
+      "dateEnd": "2026-09-02T16:51:30.110Z",
+      "dateLabel": "9/2/2026, 8:53:33 AM - 9/2/2026, 9:51:30 AM",
+      "url": "https://tiltedhealer.github.io/SELogs/?report=20260902-085333-kla2",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 36,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 22
+      }
+    },
+    {
       "id": "20260825-174436-nzti",
       "title": "Prosecute",
       "commanders": [
