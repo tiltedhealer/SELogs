@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260905-111138-tyg6",
+      "title": "Eterna En Kor",
+      "commanders": [
+        "Eterna En Kor"
+      ],
+      "guild": {
+        "id": "2B3C7814-AFA0-E311-BB46-80C16E7C6D65",
+        "name": "Yeh Yeh",
+        "tag": "Yah"
+      },
+      "dateStart": "2026-09-05T18:11:38.000Z",
+      "dateEnd": "2026-09-05T18:43:11.266Z",
+      "dateLabel": "9/5/2026, 11:11:38 AM - 9/5/2026, 11:43:11 AM",
+      "url": "https://tiltedhealer.github.io/SELogs/?report=20260905-111138-tyg6",
+      "summary": {
+        "borderlandsPct": 0.03571428571428571,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260904-193018-25br",
       "title": "Prosecute",
       "commanders": [
