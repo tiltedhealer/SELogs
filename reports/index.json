@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260905-174534-8rte",
+      "title": "Prosecute",
+      "commanders": [
+        "Prosecute"
+      ],
+      "guild": {
+        "id": "478D4EE1-9775-F111-BB1F-12683E7B69EB",
+        "name": "Me N My Bestie Going To Vegas",
+        "tag": "LV"
+      },
+      "dateStart": "2026-09-06T00:45:34.000Z",
+      "dateEnd": "2026-09-06T01:18:48.975Z",
+      "dateLabel": "9/5/2026, 5:45:34 PM - 9/5/2026, 6:18:48 PM",
+      "url": "https://tiltedhealer.github.io/SELogs/?report=20260905-174534-8rte",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 30,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260905-111138-tyg6",
       "title": "Eterna En Kor",
       "commanders": [
