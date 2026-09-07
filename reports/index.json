@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260906-185323-rcrc",
+      "title": "Prosecute",
+      "commanders": [
+        "Prosecute"
+      ],
+      "guild": {
+        "id": "478D4EE1-9775-F111-BB1F-12683E7B69EB",
+        "name": "Me N My Bestie Going To Vegas",
+        "tag": "LV"
+      },
+      "dateStart": "2026-09-07T01:53:23.000Z",
+      "dateEnd": "2026-09-07T02:19:20.091Z",
+      "dateLabel": "9/6/2026, 6:53:23 PM - 9/6/2026, 7:19:20 PM",
+      "url": "https://tiltedhealer.github.io/SELogs/?report=20260906-185323-rcrc",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 50,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260905-174534-8rte",
       "title": "Prosecute",
       "commanders": [
