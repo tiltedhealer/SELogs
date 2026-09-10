@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260909-181523-w2up",
+      "title": "B A L T T",
+      "commanders": [
+        "B A L T T"
+      ],
+      "guild": {
+        "id": "FEE46056-0C69-ED11-8466-122223FBD123",
+        "name": "Bâd Wôrd",
+        "tag": "bW"
+      },
+      "dateStart": "2026-09-10T01:15:23.000Z",
+      "dateEnd": "2026-09-10T01:37:24.686Z",
+      "dateLabel": "9/9/2026, 6:15:23 PM - 9/9/2026, 6:37:24 PM",
+      "url": "https://tiltedhealer.github.io/SELogs/?report=20260909-181523-w2up",
+      "summary": {
+        "borderlandsPct": 0.7246376811594203,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 27,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 23,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260908-172020-xfos",
       "title": "Prosecute",
       "commanders": [
