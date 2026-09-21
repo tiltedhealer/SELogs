@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260920-174524-kgr7",
+      "title": "Pros Geek Slayer",
+      "commanders": [
+        "Pros Geek Slayer"
+      ],
+      "guild": {
+        "id": "478D4EE1-9775-F111-BB1F-12683E7B69EB",
+        "name": "Me N My Bestie Going To Vegas",
+        "tag": "LV"
+      },
+      "dateStart": "2026-09-21T00:45:24.000Z",
+      "dateEnd": "2026-09-21T01:17:08.344Z",
+      "dateLabel": "9/20/2026, 5:45:24 PM - 9/20/2026, 6:17:08 PM",
+      "url": "https://tiltedhealer.github.io/SELogs/?report=20260920-174524-kgr7",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 47,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 19,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20260918-190841-33wu",
       "title": "Prosecute",
       "commanders": [
