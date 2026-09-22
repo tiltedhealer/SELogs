@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260921-174544-ptii",
+      "title": "Prosecutieee",
+      "commanders": [
+        "Prosecutieee"
+      ],
+      "guild": {
+        "id": "44843108-ECC8-4279-B2EA-9B9C6528E092",
+        "name": "Side Effect",
+        "tag": "SE"
+      },
+      "dateStart": "2026-09-22T00:45:44.000Z",
+      "dateEnd": "2026-09-22T01:23:47.674Z",
+      "dateLabel": "9/21/2026, 5:45:44 PM - 9/21/2026, 6:23:47 PM",
+      "url": "https://tiltedhealer.github.io/SELogs/?report=20260921-174544-ptii",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 16,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 5,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 22
+      }
+    },
+    {
       "id": "20260920-174524-kgr7",
       "title": "Pros Geek Slayer",
       "commanders": [
