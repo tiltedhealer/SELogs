@@ -5,6 +5,34 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20261005-175258-3a1v",
+      "title": "Prosecute",
+      "commanders": [
+        "Prosecute"
+      ],
+      "guild": {
+        "id": "27C80D08-F60E-F111-BB16-027555657585",
+        "name": "Nap Before Raid",
+        "tag": "ZzZz"
+      },
+      "dateStart": "2026-10-06T00:52:58.000Z",
+      "dateEnd": "2026-10-06T01:26:29.353Z",
+      "dateLabel": "10/5/2026, 5:52:58 PM - 10/5/2026, 6:26:29 PM",
+      "url": "https://tiltedhealer.github.io/SELogs/?report=20261005-175258-3a1v",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 35,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20261004-181515-uzth",
       "title": "Prosecute",
       "commanders": [
