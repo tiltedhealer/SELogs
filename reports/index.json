@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261011-184355-tyqa",
+      "title": "Prosecute",
+      "commanders": [
+        "Prosecute"
+      ],
+      "guild": {
+        "id": "44843108-ECC8-4279-B2EA-9B9C6528E092",
+        "name": "Side Effect",
+        "tag": "SE"
+      },
+      "dateStart": "2026-10-12T01:43:55.000Z",
+      "dateEnd": "2026-10-12T02:29:45.977Z",
+      "dateLabel": "10/11/2026, 6:43:55 PM - 10/11/2026, 7:29:45 PM",
+      "url": "https://tiltedhealer.github.io/SELogs/?report=20261011-184355-tyqa",
+      "publishedBy": "tiltedhealer",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 27,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20261010-181114-ugk1",
       "title": "Prosecute",
       "commanders": [
