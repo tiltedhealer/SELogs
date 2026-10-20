@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.6"
+    "version": "3.22.7"
   },
   "entries": [
+    {
+      "id": "20261019-180637-5458",
+      "title": "Prosecutieee",
+      "commanders": [
+        "Prosecutieee"
+      ],
+      "guild": {
+        "id": "44843108-ECC8-4279-B2EA-9B9C6528E092",
+        "name": "Side Effect",
+        "tag": "SE"
+      },
+      "dateStart": "2026-10-20T01:06:37.000Z",
+      "dateEnd": "2026-10-20T01:58:29.551Z",
+      "dateLabel": "10/19/2026, 6:06:37 PM - 10/19/2026, 6:58:29 PM",
+      "url": "https://tiltedhealer.github.io/SELogs/?report=20261019-180637-5458",
+      "publishedBy": "tiltedhealer",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 22,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 37
+      }
+    },
     {
       "id": "20261013-175929-uc87",
       "title": "Prosecute",
