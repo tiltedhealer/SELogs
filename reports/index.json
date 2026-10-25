@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261024-180040-8y68",
+      "title": "Pros Geek Slayer",
+      "commanders": [
+        "Pros Geek Slayer"
+      ],
+      "guild": {
+        "id": "27C80D08-F60E-F111-BB16-027555657585",
+        "name": "Nap Before Raid",
+        "tag": "ZzZz"
+      },
+      "dateStart": "2026-10-25T01:00:40.000Z",
+      "dateEnd": "2026-10-25T01:53:50.051Z",
+      "dateLabel": "10/24/2026, 6:00:40 PM - 10/24/2026, 6:53:50 PM",
+      "url": "https://tiltedhealer.github.io/SELogs/?report=20261024-180040-8y68",
+      "publishedBy": "tiltedhealer",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 27,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 17,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20261023-191030-gegh",
       "title": "Prosecute",
       "commanders": [
