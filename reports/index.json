@@ -5,9 +5,43 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.9"
+    "version": "3.22.11"
   },
   "entries": [
+    {
+      "id": "20261107-175611-z6gq",
+      "title": "Asharom",
+      "commanders": [
+        "Asharom"
+      ],
+      "guild": {
+        "id": "CF06831B-599E-EF11-8465-02315AB41281",
+        "name": "Mind Gôblin",
+        "tag": "deez"
+      },
+      "dateStart": "2026-11-08T01:56:11.000Z",
+      "dateEnd": "2026-11-08T02:36:38.510Z",
+      "dateLabel": "11/7/2026, 5:56:11 PM - 11/7/2026, 6:36:38 PM",
+      "url": "https://tiltedhealer.github.io/SELogs/?report=20261107-175611-z6gq",
+      "publishedBy": "tiltedhealer",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 38,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 31
+      }
+    },
     {
       "id": "20261106-192421-25ki",
       "title": "Asharom",
