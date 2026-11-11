@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.11"
+    "version": "3.23.0"
   },
   "entries": [
+    {
+      "id": "20261110-164215-ufdy",
+      "title": "Miku Taiyou",
+      "commanders": [
+        "Miku Taiyou"
+      ],
+      "guild": {
+        "id": "1C75539B-E982-E811-81A9-DC92C488388A",
+        "name": "The Axis Order I",
+        "tag": "AQUA"
+      },
+      "dateStart": "2026-11-11T00:42:15.000Z",
+      "dateEnd": "2026-11-11T01:58:22.456Z",
+      "dateLabel": "11/10/2026, 4:42:15 PM - 11/10/2026, 5:58:22 PM",
+      "url": "https://tiltedhealer.github.io/SELogs/?report=20261110-164215-ufdy",
+      "publishedBy": "tiltedhealer",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 29,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 33
+      }
+    },
     {
       "id": "20261107-175611-z6gq",
       "title": "Asharom",
