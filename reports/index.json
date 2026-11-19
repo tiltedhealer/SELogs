@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261118-174400-iz7r",
+      "title": "Prosecute",
+      "commanders": [
+        "Prosecute"
+      ],
+      "guild": {
+        "id": "27C80D08-F60E-F111-BB16-027555657585",
+        "name": "Nap Before Raid",
+        "tag": "ZzZz"
+      },
+      "dateStart": "2026-11-19T01:44:00.000Z",
+      "dateEnd": "2026-11-19T02:12:16.897Z",
+      "dateLabel": "11/18/2026, 5:44:00 PM - 11/18/2026, 6:12:16 PM",
+      "url": "https://tiltedhealer.github.io/SELogs/?report=20261118-174400-iz7r",
+      "publishedBy": "tiltedhealer",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 42,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20261117-182712-1gbm",
       "title": "Prosecute",
       "commanders": [
