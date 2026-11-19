@@ -5,9 +5,43 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.23.0"
+    "version": "3.25.0"
   },
   "entries": [
+    {
+      "id": "20261117-182712-1gbm",
+      "title": "Prosecute",
+      "commanders": [
+        "Prosecute"
+      ],
+      "guild": {
+        "id": "27C80D08-F60E-F111-BB16-027555657585",
+        "name": "Nap Before Raid",
+        "tag": "ZzZz"
+      },
+      "dateStart": "2026-11-18T02:27:12.000Z",
+      "dateEnd": "2026-11-18T03:19:18.953Z",
+      "dateLabel": "11/17/2026, 6:27:12 PM - 11/17/2026, 7:19:18 PM",
+      "url": "https://tiltedhealer.github.io/SELogs/?report=20261117-182712-1gbm",
+      "publishedBy": "tiltedhealer",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 18,
+            "color": "#64748b"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 33
+      }
+    },
     {
       "id": "20261110-164215-ufdy",
       "title": "Miku Taiyou",
