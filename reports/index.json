@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261121-175139-ov8m",
+      "title": "Pros Geek Slayer",
+      "commanders": [
+        "Pros Geek Slayer"
+      ],
+      "guild": {
+        "id": "44843108-ECC8-4279-B2EA-9B9C6528E092",
+        "name": "Side Effect",
+        "tag": "SE"
+      },
+      "dateStart": "2026-11-22T01:51:39.000Z",
+      "dateEnd": "2026-11-22T02:51:00.306Z",
+      "dateLabel": "11/21/2026, 5:51:39 PM - 11/21/2026, 6:51:00 PM",
+      "url": "https://tiltedhealer.github.io/SELogs/?report=20261121-175139-ov8m",
+      "publishedBy": "tiltedhealer",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 33,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20261120-180928-ta1g",
       "title": "Prosecute",
       "commanders": [
