@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261122-175931-tj36",
+      "title": "Asharom",
+      "commanders": [
+        "Asharom"
+      ],
+      "guild": {
+        "id": "FEE46056-0C69-ED11-8466-122223FBD123",
+        "name": "Bâd Wôrd",
+        "tag": "bW"
+      },
+      "dateStart": "2026-11-23T01:59:31.000Z",
+      "dateEnd": "2026-11-23T03:03:40.460Z",
+      "dateLabel": "11/22/2026, 5:59:31 PM - 11/22/2026, 7:03:40 PM",
+      "url": "https://tiltedhealer.github.io/SELogs/?report=20261122-175931-tj36",
+      "publishedBy": "tiltedhealer",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 45,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20261121-175139-ov8m",
       "title": "Pros Geek Slayer",
       "commanders": [
