@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261124-172247-e27q",
+      "title": "Prosecute",
+      "commanders": [
+        "Prosecute"
+      ],
+      "guild": {
+        "id": "44843108-ECC8-4279-B2EA-9B9C6528E092",
+        "name": "Side Effect",
+        "tag": "SE"
+      },
+      "dateStart": "2026-11-25T01:22:47.000Z",
+      "dateEnd": "2026-11-25T01:56:20.436Z",
+      "dateLabel": "11/24/2026, 5:22:47 PM - 11/24/2026, 5:56:20 PM",
+      "url": "https://tiltedhealer.github.io/SELogs/?report=20261124-172247-e27q",
+      "publishedBy": "tiltedhealer",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 46,
+            "color": "#64748b"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 4,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20261123-174613-nk9f",
       "title": "Prosecute",
       "commanders": [
