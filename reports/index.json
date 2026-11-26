@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261125-172506-4swx",
+      "title": "Prosecute",
+      "commanders": [
+        "Prosecute"
+      ],
+      "guild": {
+        "id": "9AD8EC40-B2E7-F111-BB22-12396678E461",
+        "name": "Drágon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-11-26T01:25:06.000Z",
+      "dateEnd": "2026-11-26T02:04:52.535Z",
+      "dateLabel": "11/25/2026, 5:25:06 PM - 11/25/2026, 6:04:52 PM",
+      "url": "https://tiltedhealer.github.io/SELogs/?report=20261125-172506-4swx",
+      "publishedBy": "tiltedhealer",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          },
+          {
+            "name": "World vs World",
+            "value": 13,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20261124-172247-e27q",
       "title": "Prosecute",
       "commanders": [
